@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecbce684-77db-4d3f-a693-d003684ae21a" name="Changes" comment="test" />
+    <list default="true" id="ecbce684-77db-4d3f-a693-d003684ae21a" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/kertaus 2/kertaus.tehtava.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaus 2/kertaus.tehtava.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaus 2/kertaus.tehtava.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaus 2/kertaus.tehtava.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaus 2/kertaus.tehtava.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaus 2/kertaus.tehtavat.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +37,9 @@
     &quot;accountId&quot;: &quot;852025ff-268c-49da-9b6c-7ca106eeaaaf&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -37,142 +48,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.kertaus.1.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kertaus.1.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kertaus.1.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kertaus.1.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kertaus.1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko1.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko2.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko3.harjoitus.1.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko3.harjoitus.1.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko3.harjoitus.1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko3.harjoitus.1.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko3.harjoitus.1.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko3.harjoitus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko3.harjoitus1.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko3.kotitehtävä1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko4.harjoitus.1.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko4.harjoitus.1.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko4.harjoitus.1.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko4.harjoitus.1.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko4.harjoitus.1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko4.harjoitus.1.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko4.harjoitus.1.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko4.kotitehtävä.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.viikko4.kotitehtävät.1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.kertaus.1.1.executor": "Run",
+    "Python.kertaus.1.2.executor": "Run",
+    "Python.kertaus.1.3.executor": "Run",
+    "Python.kertaus.1.4.executor": "Run",
+    "Python.kertaus.1.5.executor": "Run",
+    "Python.kertaus.tehtava.1.executor": "Run",
+    "Python.kertaus.tehtava.2.executor": "Run",
+    "Python.kertaus.tehtava.3.executor": "Run",
+    "Python.kertaus.tehtava.4.executor": "Run",
+    "Python.viikko1.1.executor": "Run",
+    "Python.viikko2.1.executor": "Run",
+    "Python.viikko2.2.executor": "Run",
+    "Python.viikko2.3.executor": "Run",
+    "Python.viikko2.5.executor": "Run",
+    "Python.viikko3.harjoitus.1.3.executor": "Run",
+    "Python.viikko3.harjoitus.1.4.executor": "Run",
+    "Python.viikko3.harjoitus.1.5.executor": "Run",
+    "Python.viikko3.harjoitus.1.6.executor": "Run",
+    "Python.viikko3.harjoitus.1.7.executor": "Run",
+    "Python.viikko3.harjoitus.executor": "Run",
+    "Python.viikko3.harjoitus1.1.executor": "Run",
+    "Python.viikko3.kotitehtävä1.executor": "Run",
+    "Python.viikko4.harjoitus.1.1.executor": "Run",
+    "Python.viikko4.harjoitus.1.2.executor": "Run",
+    "Python.viikko4.harjoitus.1.3.executor": "Run",
+    "Python.viikko4.harjoitus.1.4.executor": "Run",
+    "Python.viikko4.harjoitus.1.5.executor": "Run",
+    "Python.viikko4.harjoitus.1.6.executor": "Run",
+    "Python.viikko4.harjoitus.1.7.executor": "Run",
+    "Python.viikko4.kotitehtävä.2.executor": "Run",
+    "Python.viikko4.kotitehtävät.1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.kertaus.1.5">
-    <configuration name="kertaus.1.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tehtavat" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kertaus" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kertaus/kertaus.1.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="kertaus.1.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tehtavat" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kertaus" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kertaus/kertaus.1.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="kertaus.1.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tehtavat" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kertaus" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kertaus/kertaus.1.3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="kertaus.1.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tehtavat" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kertaus" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kertaus/kertaus.1.4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Python.kertaus.tehtava.4">
     <configuration name="kertaus.1.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tehtavat" />
       <option name="ENV_FILES" value="" />
@@ -197,13 +116,109 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="kertaus.tehtava.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tehtavat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kertaus 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kertaus 2/kertaus.tehtava.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kertaus.tehtava.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tehtavat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kertaus 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kertaus 2/kertaus.tehtava.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kertaus.tehtava.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tehtavat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kertaus 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kertaus 2/kertaus.tehtava.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kertaus.tehtava.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tehtavat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kertaus 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kertaus 2/kertaus.tehtava.4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.kertaus.tehtava.4" />
+        <item itemvalue="Python.kertaus.tehtava.3" />
+        <item itemvalue="Python.kertaus.tehtava.2" />
+        <item itemvalue="Python.kertaus.tehtava.1" />
         <item itemvalue="Python.kertaus.1.5" />
-        <item itemvalue="Python.kertaus.1.4" />
-        <item itemvalue="Python.kertaus.1.3" />
-        <item itemvalue="Python.kertaus.1.2" />
-        <item itemvalue="Python.kertaus.1.1" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +240,7 @@
       <workItem from="1770204653979" duration="159000" />
       <workItem from="1770204923095" duration="8517000" />
       <workItem from="1770808060990" duration="26089000" />
-      <workItem from="1774508755460" duration="445000" />
+      <workItem from="1774508755460" duration="5286000" />
     </task>
     <task id="LOCAL−00001" summary="test">
       <option name="closed" value="true" />
@@ -283,7 +298,14 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1772558662425</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1774509242444</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1774509242444</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,11 +338,13 @@
     <SUITE FILE_PATH="coverage/tehtavat$viikko4_harjoitus_1_4.coverage" NAME="viikko4.harjoitus.1.4 Coverage Results" MODIFIED="1772020795282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko4" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko4_harjoitus_1_7.coverage" NAME="viikko4.harjoitus.1.7 Coverage Results" MODIFIED="1772463799979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko4" />
     <SUITE FILE_PATH="coverage/tehtavat$kertaus_1_1.coverage" NAME="kertaus.1.1 Coverage Results" MODIFIED="1772623610930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus" />
+    <SUITE FILE_PATH="coverage/tehtavat$kertaus_tehtava_3.coverage" NAME="kertaus.tehtava.3 Coverage Results" MODIFIED="1774512796807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko3_harjoitus_1_6.coverage" NAME="viikko3.harjoitus.1.6 Coverage Results" MODIFIED="1770813981231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko3" />
-    <SUITE FILE_PATH="coverage/tehtavat$kertaus_1_5.coverage" NAME="kertaus.1.5 Coverage Results" MODIFIED="1772627798247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus" />
+    <SUITE FILE_PATH="coverage/tehtavat$kertaus_1_5.coverage" NAME="kertaus.1.5 Coverage Results" MODIFIED="1774510128956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko4_harjoitus_1_5.coverage" NAME="viikko4.harjoitus.1.5 Coverage Results" MODIFIED="1772022143851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko4" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko2_3.coverage" NAME="viikko2.3 Coverage Results" MODIFIED="1770810545462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko2" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko3_harjoitus1_1.coverage" NAME="viikko3.harjoitus1.1 Coverage Results" MODIFIED="1770812271953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko3" />
+    <SUITE FILE_PATH="coverage/tehtavat$kertaus_tehtava_2.coverage" NAME="kertaus.tehtava.2 Coverage Results" MODIFIED="1774511522755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko3_harjoitus_1_4.coverage" NAME="viikko3.harjoitus.1.4 Coverage Results" MODIFIED="1770813258824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko3" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko3_harjoitus_1_7.coverage" NAME="viikko3.harjoitus.1.7 Coverage Results" MODIFIED="1770814500349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko3" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko3_kotitehtävä1.coverage" NAME="viikko3.kotitehtävä1 Coverage Results" MODIFIED="1770816297609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko3" />
@@ -332,7 +356,9 @@
     <SUITE FILE_PATH="coverage/tehtavat$viikko2_1.coverage" NAME="viikko2.1 Coverage Results" MODIFIED="1770224902866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko2" />
     <SUITE FILE_PATH="coverage/tehtavat$kertaus_1_2.coverage" NAME="kertaus.1.2 Coverage Results" MODIFIED="1772624752421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko3_harjoitus_1_3.coverage" NAME="viikko3.harjoitus.1.3 Coverage Results" MODIFIED="1770812986082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko3" />
+    <SUITE FILE_PATH="coverage/tehtavat$kertaus_tehtava_4.coverage" NAME="kertaus.tehtava.4 Coverage Results" MODIFIED="1774513075276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko3_harjoitus.coverage" NAME="viikko3.harjoitus Coverage Results" MODIFIED="1770812138103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko3" />
+    <SUITE FILE_PATH="coverage/tehtavat$kertaus_tehtava_1.coverage" NAME="kertaus.tehtava.1 Coverage Results" MODIFIED="1774511518089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaus 2" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko3_harjoitus_1_5.coverage" NAME="viikko3.harjoitus.1.5 Coverage Results" MODIFIED="1770813509186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko3" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko1_1.coverage" NAME="viikko1.1 Coverage Results" MODIFIED="1770205575711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tehtavat" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko4_kotitehtävät_1.coverage" NAME="viikko4.kotitehtävät.1 Coverage Results" MODIFIED="1772465360746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko4" />
